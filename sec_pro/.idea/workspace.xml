@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d0c0aef-5e90-46d8-9739-e809db1278a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YfKxq1BhEOLejcLHEl4UL2PMGs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Django server.sec_pro">
+    <configuration name="Test: sec_pro" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="sec_pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="sec_pro" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sec_pro" type="Python.DjangoServer" factoryName="Django server">
+      <module name="sec_pro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="sec_pro.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Django tests.Test: sec_pro" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d0c0aef-5e90-46d8-9739-e809db1278a5" name="Default Changelist" comment="" />
+      <created>1583328457682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583328457682</updated>
+      <workItem from="1583328459858" duration="343000" />
+      <workItem from="1583328961590" duration="2365000" />
+      <workItem from="1583370387121" duration="495000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="128" key="FileChooserDialogImpl" timestamp="1583328804784">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="465" y="128" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1583328804784" />
+    <state width="1292" height="171" key="GridCell.Tab.0.bottom" timestamp="1583366245633">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1292" height="171" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583366245633" />
+    <state width="1292" height="171" key="GridCell.Tab.0.center" timestamp="1583366245633">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1292" height="171" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1583366245633" />
+    <state width="1292" height="171" key="GridCell.Tab.0.left" timestamp="1583366245632">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1292" height="171" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1583366245632" />
+    <state width="1292" height="171" key="GridCell.Tab.0.right" timestamp="1583366245633">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1292" height="171" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1583366245633" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sec_pro$Test__sec_pro.coverage" NAME="Test: sec_pro Coverage Results" MODIFIED="1583328627750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
